@@ -109,7 +109,7 @@ jano.on("ready", () => {
 });
 ///////////////////
 jano2.on("ready", () => {
-  var join = jano2.channels.get(""); /// id voice
+  var join = jano2.channels.get("941450979033903214"); /// id voice
   if (join) join.join();
 });
 ///////////////////
@@ -1908,7 +1908,7 @@ jano100.on("ready", () => {
 //////////////// tokn lera da bne
 
 jano.login("OTQ5MDA4Mjk2MzUyODE3MTky.YiEL_A.Q4KZRGcMhWv8RX4LwLRgepNgNp0");
-jano2.login("");
+jano2.login("OTQ5MDE0OTU2NDg4MTQ2OTU0.YiEVlw.--rjS0TD3DSIFhv3PhdrmKeSefI");
 jano3.login("");
 jano4.login("");
 jano5.login("");
